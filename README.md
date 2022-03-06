@@ -1,6 +1,6 @@
 # CSC-473
 
-Completed coursework for [CSC 473: Introduction to Computer Graphics (Spring 2021)](https://heat.csc.uvic.ca/coview/course/2021091/CSC473 "UVic Course Page") at University of Victoria.
+Completed coursework for [CSC 473: Introduction to Computer Graphics (Fall 2021)](https://heat.csc.uvic.ca/coview/course/2021091/CSC473 "UVic Course Page") at University of Victoria.
 
 ### Topics
 
