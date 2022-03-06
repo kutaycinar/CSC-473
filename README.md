@@ -27,6 +27,8 @@ CSC473 presents topics in computer animation starting with traditional computer-
 ## [A1: Hermite Spline Modelling and Animation](./Assignment%201)
 ![anim_wHpFtXXdRX](https://user-images.githubusercontent.com/76612427/156910207-9ea60d9b-8404-441f-aacb-36b23417fa3b.gif)
 
-
 ## [A2: Spring Mass System](./Assignment%202)
 ![anim_ObE0sJQ5mG](https://user-images.githubusercontent.com/76612427/156911282-6399c1d8-c638-40a1-959e-0798582de860.gif)
+
+## [A3: Inverse Kinematics](./Assignment%203)
+![anim_63NWWPNQh4](https://user-images.githubusercontent.com/76612427/156911638-fafeaea1-a7e3-4b78-91c4-876384ffd911.gif)
