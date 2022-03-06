@@ -20,3 +20,9 @@ CSC473 presents topics in computer animation starting with traditional computer-
 - Articulated character animation
 - Behavioural animation
 - Introductions to advanced animation techniques (soft bodies, physical phenomonen: fluids/fire/smoke, learning motion)
+
+
+# In this repository
+
+## [A1: Hermite Spline Modelling and Animation](./Assignment%201)
+![anim_wHpFtXXdRX](https://user-images.githubusercontent.com/76612427/156910207-9ea60d9b-8404-441f-aacb-36b23417fa3b.gif)
