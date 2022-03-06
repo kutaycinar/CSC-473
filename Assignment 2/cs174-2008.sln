@@ -1,0 +1,46 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "anim", "anim\anim.vcproj", "{CACA0B57-282C-4FCD-B32F-B1352337AEC4}"
+	ProjectSection(ProjectDependencies) = postProject
+		{73426404-6827-4553-890E-A85961EA7BF7} = {73426404-6827-4553-890E-A85961EA7BF7}
+		{AADDED95-236D-4ABC-AC11-BE0F01FD1593} = {AADDED95-236D-4ABC-AC11-BE0F01FD1593}
+	EndProjectSection
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "util", "util\util.vcproj", "{73426404-6827-4553-890E-A85961EA7BF7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLModel", "GLModel\GLModel.vcproj", "{AADDED95-236D-4ABC-AC11-BE0F01FD1593}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "documentation", "documentation", "{B092595E-0CCF-454E-BA5D-EC6BA5AB8A32}"
+	ProjectSection(SolutionItems) = preProject
+		README.txt = README.txt
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "shared", "shared", "{436F8881-BB93-4CAA-9E6C-A3738DDF5C1A}"
+	ProjectSection(SolutionItems) = preProject
+		shared\defs.h = shared\defs.h
+		shared\opengl.h = shared\opengl.h
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CACA0B57-282C-4FCD-B32F-B1352337AEC4}.Debug|Win32.ActiveCfg = Debug|Win32
+		{CACA0B57-282C-4FCD-B32F-B1352337AEC4}.Debug|Win32.Build.0 = Debug|Win32
+		{CACA0B57-282C-4FCD-B32F-B1352337AEC4}.Release|Win32.ActiveCfg = Release|Win32
+		{CACA0B57-282C-4FCD-B32F-B1352337AEC4}.Release|Win32.Build.0 = Release|Win32
+		{73426404-6827-4553-890E-A85961EA7BF7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{73426404-6827-4553-890E-A85961EA7BF7}.Debug|Win32.Build.0 = Debug|Win32
+		{73426404-6827-4553-890E-A85961EA7BF7}.Release|Win32.ActiveCfg = Release|Win32
+		{73426404-6827-4553-890E-A85961EA7BF7}.Release|Win32.Build.0 = Release|Win32
+		{AADDED95-236D-4ABC-AC11-BE0F01FD1593}.Debug|Win32.ActiveCfg = Debug|Win32
+		{AADDED95-236D-4ABC-AC11-BE0F01FD1593}.Debug|Win32.Build.0 = Debug|Win32
+		{AADDED95-236D-4ABC-AC11-BE0F01FD1593}.Release|Win32.ActiveCfg = Release|Win32
+		{AADDED95-236D-4ABC-AC11-BE0F01FD1593}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

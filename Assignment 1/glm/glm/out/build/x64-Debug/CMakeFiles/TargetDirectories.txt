@@ -1,0 +1,2 @@
+C:/Users/gmail/Desktop/CSC 473/A1/ComputerAnimationTemplate2019/glm/glm/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/gmail/Desktop/CSC 473/A1/ComputerAnimationTemplate2019/glm/glm/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
